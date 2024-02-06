@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color: blue;
 }
 h1{
     color: crimson;
@@ -9,7 +9,7 @@ p{
     color: crimson;
 }
 div{
-    background-color: blue;
+    background-color: aqua;
     margin: auto;
     padding: 25px;
     width: 500px;
