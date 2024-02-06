@@ -1,0 +1,16 @@
+body{
+    background-color: blue;
+}
+h1{
+    color: crimson;
+    text-align: center;
+}
+p{
+    color: crimson;
+}
+div{
+    background-color: aqua;
+    margin: auto;
+    padding: 20px;
+    width: 500px;
+}
