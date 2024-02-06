@@ -8,7 +8,7 @@ h1{
 p{
     color: crimson;
 }
-div{
+.content{
     background-color: aqua;
     margin: auto;
     padding: 25px;
