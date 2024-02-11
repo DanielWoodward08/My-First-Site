@@ -1,18 +1,21 @@
 body{
-    background-color: blue;
+    background-color: rgb(238, 235, 215);
 }
 h1{
     color: crimson;
     text-align: center;
+    padding: 25px;
+    font-size: 4.6875em;
 }
 p{
     color: crimson;
 }
 .content{
-    background-color: aqua;
+    background-color: rgb(140, 226, 226);
     margin: auto;
     padding: 25px;
     width: 500px;
     border-radius: 10px;
-    box-shadow: 10px 10px 30px hotpink;
+    text-align: center  ;
+    box-shadow: 10px 10px 30px rgb(255, 255, 255);
 }
